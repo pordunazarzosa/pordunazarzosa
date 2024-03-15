@@ -1,5 +1,5 @@
-# Name #
+# Name: Unknown #
 
-## Skills ##
+## Skills: Unknown ##
 
-## Background ##
+## Background: Unknown ##
