@@ -1,5 +1,5 @@
-##Name##
+# Name #
 
-##Skills##
+## Skills ##
 
-##background##
+## Background ##
