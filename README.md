@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I’m Pablo, a Jr. full-stack developer and senior 3D designer who specializes in Back-end development.
+I’m Pablo, an enthusiastic project manager and software developer with a passion for solving human problems, with experience spanning the full software development cycle, an eagerness to collaborate with diverse teams, and a drive to deliver world-class technical expertise, I am ready to thrive in a low-hierarchy environment. I'm eager to contribute to an organization that values well-being, professional growth, and individual impact..
 
 Want to know more about me? [Check out my portfolio.](https://www.behance.net/porduna)
 
@@ -68,4 +68,17 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 </details>
 
 <br>
-## Background: Unknown ##
+## Background: 
+📖 Education:
+
+- 2024-2024 Fullstack Developer, 4Geeks Academy.
+- 2021-2021 The keys of Photorealism , 3D Collective.
+- 2015-2016 Master on 3D Design, Trazos.
+- 2007-2014 Degree on Audiovisual Communication, Universidad Europea Miguel de Cervantes (UEMC).
+
+## LANGUAGES:
+- Spanish – Native 
+- English – Bilingual
+- French – Fluent
+- Portuguese – Fluent
+- Chinese - Basic
