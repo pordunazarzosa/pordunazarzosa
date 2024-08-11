@@ -67,16 +67,15 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 
 </details>
 
-<br>
-## Background: 
-📖 Education:
+
+## 📖 Education:
 
 - 2024-2024 Fullstack Developer, 4Geeks Academy.
 - 2021-2021 The keys of Photorealism , 3D Collective.
 - 2015-2016 Master on 3D Design, Trazos.
 - 2007-2014 Degree on Audiovisual Communication, Universidad Europea Miguel de Cervantes (UEMC).
 
-## LANGUAGES:
+## 🌎 Languages:
 - Spanish – Native 
 - English – Bilingual
 - French – Fluent
