@@ -39,7 +39,6 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/po
 
 ![](https://img.shields.io/badge/_-React-rgb?style=flat&logo=React&logoColor=white&labelColor=grey&color=%2361DAFB)
 ![](https://img.shields.io/badge/_-Bootstrap5-rgb?style=flat&logo=Bootstrap&logoColor=white&labelColor=grey&color=%237952B3)
-![](https://img.shields.io/badge/_-Sass-rgb?style=flat&logo=Sass&logoColor=white&labelColor=grey&color=%23CC6699)
 
 ![](https://img.shields.io/badge/_-Docker-rgb?style=flat&logo=Docker&logoColor=white&labelColor=grey&color=%232496ED)
 ![](https://img.shields.io/badge/_-GitHub-rgb?style=flat&logo=GitHub&logoColor=white&labelColor=grey&color=%23181717)
